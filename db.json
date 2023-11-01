@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "sammyyy",
+      "lastName": "adada",
+      "email": "dsa@gmail.com",
+      "dob": "2023-11-06T16:00:00.000Z",
+      "gender": "1",
+      "education": "Graduate",
+      "company": "csaca",
+      "experience": "4",
+      "package": 4,
+      "id": 1
+    },
+    {
+      "firstName": "dsaea",
+      "lastName": "dsad",
+      "email": "sada",
+      "dob": "2023-11-14T16:00:00.000Z",
+      "gender": "2",
+      "education": "PostGraduate",
+      "company": "da",
+      "experience": "12",
+      "package": 12,
+      "id": 2
+    }
+  ]
+}
